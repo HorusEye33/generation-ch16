@@ -1,0 +1,9 @@
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+    text-shadow: purple, 10px;
+}
