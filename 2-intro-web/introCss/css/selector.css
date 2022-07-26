@@ -1,0 +1,30 @@
+div {
+    border: red 6px solid;
+    margin: 20px;
+    padding: 3%;
+}
+
+/* Selector descendiente */
+/* div p{
+    color: red;
+} */
+
+/* Selector hijo */
+/* div > p{
+    color: red;
+} */
+
+/* Selector consecutivo */
+/* div + p{
+    color: red;
+} */
+
+/* Selector hermano */
+/* div ~ p {
+    color: red;
+} */
+
+/* Selector de atributo */
+div[unico] {
+    color: red;
+}
