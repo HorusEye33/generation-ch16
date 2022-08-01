@@ -1,0 +1,29 @@
+.img-carousel {
+    height: calc(50vh - 80.81px);
+    object-fit: cover;
+}
+
+.img-card {
+    height: 300px;
+    object-fit: cover;
+}
+
+.caja {
+    position: relative;
+    top: -60px;
+}
+
+/* Media Queries */
+
+/* @media(max-width: 1200px){
+    body {
+        background-color: red;
+    }
+} 
+
+@media(max-width: 992px){
+
+    body {
+        background-color: blue;
+    }
+} */
