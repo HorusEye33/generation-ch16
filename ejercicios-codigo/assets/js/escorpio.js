@@ -1,3 +1,5 @@
+// CASA DE ESCORPIO
+
 alert('Bienvenido a la 🦂CASA DE ESCORPIO🦂 donde tendras que encontrar el "Número Mágico" para pasar... \n\nPara salir del juego ingresa el número "0"');
 
 let max = 100;
