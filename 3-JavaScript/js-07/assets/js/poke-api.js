@@ -1,5 +1,5 @@
 /* URL a consumir */
-const urlPokemon = "https://pokeapi.co/api/v2/pokemon/163";
+const urlPokemon = "https://pokeapi.co/api/v2/pokemon/6";
 
 /* Elementos del DOM */
 const imgPokemon = document.getElementById("img-pokemon");
