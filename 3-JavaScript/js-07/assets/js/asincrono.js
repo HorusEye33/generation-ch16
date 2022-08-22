@@ -15,7 +15,7 @@ setTimeout(() => {
 
 console.log(4);
 
-for (let i = 0; i < 100; i++) {
+for (let i = 0; i < 10; i++) {
     console.log("Estoy procesando");
     
 }
