@@ -37,5 +37,6 @@ public class Aclaracion2
         System.out.println(ac1.atributo1 + ", " + ac1.atributo2 + "," + ac1.atributo3);//Imprime '5, 10, x'
 
         //Mostramos el valor de los atributo ac2
+        System.out.println(ac2.atributo1 + ", " + ac2.atributo2 + "," + ac2.atributo3);//Imprime '5, 10, x'
     }
 }
