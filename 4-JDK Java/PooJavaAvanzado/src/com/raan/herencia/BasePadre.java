@@ -17,6 +17,7 @@ public class BasePadre {
     }
 
     public void visualizarABC(){
+
         System.out.println("Object ho -> Soy el método visualizaABC");
     }
     //Métodos accesores
