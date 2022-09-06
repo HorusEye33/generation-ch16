@@ -23,6 +23,7 @@ SELECT * FROM clientes;
 DELETE FROM clientes
 WHERE cliente_id = 2;
 
+drop table clientes;
 
 
 
